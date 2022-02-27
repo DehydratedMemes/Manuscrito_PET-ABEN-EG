@@ -1,0 +1,113 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{10}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Bannwarth \latin{et~al.}(2021)Bannwarth, Caldeweyher, Ehlert, Hansen,
+  Pracht, Seibert, Spicher, and Grimme]{Bannwarth2021}
+Bannwarth,~C.; Caldeweyher,~E.; Ehlert,~S.; Hansen,~A.; Pracht,~P.;
+  Seibert,~J.; Spicher,~S.; Grimme,~S. Extended {\textsc{Tight-binding}}
+  Quantum Chemistry Methods. \emph{WIREs Comput Mol Sci} \textbf{2021},
+  \emph{11}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bannwarth \latin{et~al.}(2019)Bannwarth, Ehlert, and
+  Grimme]{Bannwarth2019}
+Bannwarth,~C.; Ehlert,~S.; Grimme,~S. {{GFN2-xTB}}\textemdash{{An Accurate}}
+  and {{Broadly Parametrized Self-Consistent Tight-Binding Quantum Chemical
+  Method}} with {{Multipole Electrostatics}} and {{Density-Dependent Dispersion
+  Contributions}}. \emph{J. Chem. Theory Comput.} \textbf{2019}, \emph{15},
+  1652--1671\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Daubeny \latin{et~al.}(1954)Daubeny, {Bunn Charles William}, and
+  Brown]{Daubeny1954}
+Daubeny,~R. D.~P.; {Bunn Charles William},; Brown,~C.~J. The Crystal Structure
+  of Polyethylene Terephthalate. \emph{Proc. R. Soc. Lond. A} \textbf{1954},
+  \emph{226}, 531--542\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Neese \latin{et~al.}(2020)Neese, Wennmohs, Becker, and
+  Riplinger]{Neese2020}
+Neese,~F.; Wennmohs,~F.; Becker,~U.; Riplinger,~C. The {{ORCA}} Quantum
+  Chemistry Program Package. \emph{J. Chem. Phys.} \textbf{2020}, \emph{152},
+  224108\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Yu \latin{et~al.}(2016)Yu, He, and Truhlar]{Yu2016}
+Yu,~H.~S.; He,~X.; Truhlar,~D.~G. {{MN15-L}}: {{A New Local
+  Exchange-Correlation Functional}} for {{Kohn}}\textendash{{Sham Density
+  Functional Theory}} with {{Broad Accuracy}} for {{Atoms}}, {{Molecules}}, and
+  {{Solids}}. \emph{J. Chem. Theory Comput.} \textbf{2016}, \emph{12},
+  1280--1293\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Stoychev \latin{et~al.}(2017)Stoychev, Auer, and Neese]{Stoychev2017}
+Stoychev,~G.~L.; Auer,~A.~A.; Neese,~F. Automatic {{Generation}} of {{Auxiliary
+  Basis Sets}}. \emph{J. Chem. Theory Comput.} \textbf{2017}, \emph{13},
+  554--562\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{\'A}sgeirsson \latin{et~al.}(2021){\'A}sgeirsson, Birgisson,
+  Bjornsson, Becker, Neese, Riplinger, and J{\'o}nsson]{Asgeirsson2021}
+{\'A}sgeirsson,~V.; Birgisson,~B.~O.; Bjornsson,~R.; Becker,~U.; Neese,~F.;
+  Riplinger,~C.; J{\'o}nsson,~H. Nudged Elastic Band Method for Molecular
+  Reactions Using Energy-Weighted Springs Combined with Eigenvector Following.
+  \emph{J. Chem. Theory Comput.} \textbf{2021}, \emph{17}, 4929--4945\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lu and Chen(2021)Lu, and Chen]{Lu2021}
+Lu,~T.; Chen,~Q. Interaction {{Region Indicator}}: {{A Simple Real Space
+  Function Clearly Revealing Both Chemical Bonds}} and {{Weak Interactions}}.
+  \emph{Chem. Methods} \textbf{2021}, \emph{1}, 231--239\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nikolaienko \latin{et~al.}(2014)Nikolaienko, Bulavin, and
+  Hovorun]{Nikolaienko2014}
+Nikolaienko,~T.~Y.; Bulavin,~L.~A.; Hovorun,~D.~M. {{JANPA}}: An Open Source
+  Cross-Platform Implementation of the Natural Population Analysis on the Java
+  Platform. \emph{Comput Theor Chem} \textbf{2014}, \emph{1050}, 15--22\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
