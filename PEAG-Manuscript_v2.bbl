@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{10}
+\begin{mcitethebibliography}{15}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -26,6 +26,69 @@
   {\relax}
   {\relax}
 
+\bibitem[Yu \latin{et~al.}(2016)Yu, He, and Truhlar]{Yu2016}
+Yu,~H.~S.; He,~X.; Truhlar,~D.~G. {{MN15-L}}: {{A New Local
+  Exchange-Correlation Functional}} for {{Kohn}}\textendash{{Sham Density
+  Functional Theory}} with {{Broad Accuracy}} for {{Atoms}}, {{Molecules}}, and
+  {{Solids}}. \emph{J. Chem. Theory Comput.} \textbf{2016}, \emph{12},
+  1280--1293\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{\'A}sgeirsson \latin{et~al.}(2021){\'A}sgeirsson, Birgisson,
+  Bjornsson, Becker, Neese, Riplinger, and J{\'o}nsson]{Asgeirsson2021}
+{\'A}sgeirsson,~V.; Birgisson,~B.~O.; Bjornsson,~R.; Becker,~U.; Neese,~F.;
+  Riplinger,~C.; J{\'o}nsson,~H. Nudged Elastic Band Method for Molecular
+  Reactions Using Energy-Weighted Springs Combined with Eigenvector Following.
+  \emph{J. Chem. Theory Comput.} \textbf{2021}, \emph{17}, 4929--4945\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Geyer \latin{et~al.}(2017)Geyer, Jambeck, and Law]{Geyer2017}
+Geyer,~R.; Jambeck,~J.~R.; Law,~K.~L. Production, Use, and Fate of All Plastics
+  Ever Made. \emph{Sci. Adv.} \textbf{2017}, \emph{3}, e1700782\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bartolome \latin{et~al.}(2012)Bartolome, Imran, Gyoo, A., and
+  Hyun]{Bartolome2012}
+Bartolome,~L.; Imran,~M.; Gyoo,~B.; A.,~W.; Hyun,~D. In \emph{Material
+  Recycling - Trends and Perspectives}; Achilias,~D.~S., Ed.; {InTech}:
+  {Rijeka}, 2012; Chapter 2\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Campanelli \latin{et~al.}(1993)Campanelli, Kamal, and
+  Cooper]{Campanelli1993}
+Campanelli,~J.~R.; Kamal,~M.~R.; Cooper,~D.~G. A Kinetic Study of the
+  Hydrolytic Degradation of Polyethylene Terephthalate at High Temperatures.
+  \emph{J. Appl. Polym. Sci.} \textbf{1993}, \emph{48}, 443--451\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Campanelli \latin{et~al.}(1994)Campanelli, Kamal, and
+  Cooper]{Campanelli1994}
+Campanelli,~J.~R.; Kamal,~M.~R.; Cooper,~D.~G. Kinetics of Glycolysis of
+  Poly(Ethylene Terephthalate) Melts. \emph{J. Appl. Polym. Sci.}
+  \textbf{1994}, \emph{54}, 1731--1740\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Campanelli \latin{et~al.}(1994)Campanelli, Cooper, and
+  Kamal]{Campanelli1994a}
+Campanelli,~J.~R.; Cooper,~D.~G.; Kamal,~M.~R. Catalyzed Hydrolysis of
+  Polyethylene Terephthalate Melts. \emph{J. Appl. Polym. Sci.} \textbf{1994},
+  \emph{53}, 985--991\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Bannwarth \latin{et~al.}(2021)Bannwarth, Caldeweyher, Ehlert, Hansen,
   Pracht, Seibert, Spicher, and Grimme]{Bannwarth2021}
 Bannwarth,~C.; Caldeweyher,~E.; Ehlert,~S.; Hansen,~A.; Pracht,~P.;
@@ -65,30 +128,10 @@ Neese,~F.; Wennmohs,~F.; Becker,~U.; Riplinger,~C. The {{ORCA}} Quantum
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Yu \latin{et~al.}(2016)Yu, He, and Truhlar]{Yu2016}
-Yu,~H.~S.; He,~X.; Truhlar,~D.~G. {{MN15-L}}: {{A New Local
-  Exchange-Correlation Functional}} for {{Kohn}}\textendash{{Sham Density
-  Functional Theory}} with {{Broad Accuracy}} for {{Atoms}}, {{Molecules}}, and
-  {{Solids}}. \emph{J. Chem. Theory Comput.} \textbf{2016}, \emph{12},
-  1280--1293\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
 \bibitem[Stoychev \latin{et~al.}(2017)Stoychev, Auer, and Neese]{Stoychev2017}
 Stoychev,~G.~L.; Auer,~A.~A.; Neese,~F. Automatic {{Generation}} of {{Auxiliary
   Basis Sets}}. \emph{J. Chem. Theory Comput.} \textbf{2017}, \emph{13},
   554--562\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[{\'A}sgeirsson \latin{et~al.}(2021){\'A}sgeirsson, Birgisson,
-  Bjornsson, Becker, Neese, Riplinger, and J{\'o}nsson]{Asgeirsson2021}
-{\'A}sgeirsson,~V.; Birgisson,~B.~O.; Bjornsson,~R.; Becker,~U.; Neese,~F.;
-  Riplinger,~C.; J{\'o}nsson,~H. Nudged Elastic Band Method for Molecular
-  Reactions Using Energy-Weighted Springs Combined with Eigenvector Following.
-  \emph{J. Chem. Theory Comput.} \textbf{2021}, \emph{17}, 4929--4945\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
