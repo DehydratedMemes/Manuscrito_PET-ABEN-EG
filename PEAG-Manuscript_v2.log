@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  14 MAR 2022 10:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  14 MAR 2022 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,6 +881,25 @@ braces):
 )
 Package polyglossia Info: Default language is latex.
 ))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
+\linenopenalty=\count361
+\output=\toks46
+\linenoprevgraf=\count362
+\linenumbersep=\dimen321
+\linenumberwidth=\dimen322
+\c@linenumber=\count363
+\c@pagewiselinenumber=\count364
+\c@LN@truepage=\count365
+\c@internallinenumber=\count366
+\c@internallinenumbers=\count367
+\quotelinenumbersep=\dimen323
+\bframerule=\dimen324
+\bframesep=\dimen325
+\bframebox=\box82
+LaTeX Info: Redefining \\ on input line 3056.
+)
 
 Package chemmacros Info: You haven't chosen a formula method so I'm assuming
 (chemmacros)             the default method `chemformula'.
@@ -899,58 +918,58 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowinset=\dimen321
-\pgfarrowlength=\dimen322
-\pgfarrowwidth=\dimen323
-\pgfarrowlinewidth=\dimen324
+\pgfarrowinset=\dimen326
+\pgfarrowlength=\dimen327
+\pgfarrowwidth=\dimen328
+\pgfarrowlinewidth=\dimen329
 )
 Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions 
 (CN)
-\l__chemformula_tmpa_dim=\dimen325
-\l__chemformula_tmpb_dim=\dimen326
-\l__chemformula_tmpc_dim=\dimen327
-\l__chemformula_tmpa_int=\count361
-\l__chemformula_tmpb_int=\count362
-\l__chemformula_tmpc_int=\count363
-\l__chemformula_tmpa_box=\box82
-\l__chemformula_tmpb_box=\box83
-\l__chemformula_arrow_length_dim=\dimen328
-\l__chemformula_arrow_label_height_dim=\dimen329
-\l__chemformula_arrow_label_offset_dim=\dimen330
-\l__chemformula_arrow_minimum_length_dim=\dimen331
-\l__chemformula_arrow_shortage_dim=\dimen332
-\l__chemformula_arrow_offset_dim=\dimen333
-\l__chemformula_arrow_yshift_dim=\dimen334
-\l__chemformula_radical_radius_dim=\dimen335
-\l__chemformula_radical_hshift_dim=\dimen336
-\l__chemformula_radical_vshift_dim=\dimen337
-\l__chemformula_radical_space_dim=\dimen338
-\l__chemformula_arrow_head_dim=\dimen339
-\l__chemformula_name_dim=\dimen340
-\l__chemformula_adduct_space_dim=\dimen341
-\l__chemformula_charge_shift_dim=\dimen342
-\l__chemformula_subscript_shift_dim=\dimen343
-\l__chemformula_superscript_shift_dim=\dimen344
-\l__chemformula_subscript_dim=\dimen345
-\l__chemformula_superscript_dim=\dimen346
-\l__chemformula_bond_dim=\dimen347
-\l__chemformula_bond_space_dim=\dimen348
-\l__chemformula_elspec_pair_distance_dim=\dimen349
-\l__chemformula_elspec_pair_line_length_dim=\dimen350
-\l__chemformula_elspec_pair_width_dim=\dimen351
-\l__chemformula_kroegervink_positive_radius_dim=\dimen352
-\l__chemformula_kroegervink_positive_hshift_dim=\dimen353
-\l__chemformula_kroegervink_positive_vshift_dim=\dimen354
-\l__chemformula_kroegervink_positive_space_dim=\dimen355
+\l__chemformula_tmpa_dim=\dimen330
+\l__chemformula_tmpb_dim=\dimen331
+\l__chemformula_tmpc_dim=\dimen332
+\l__chemformula_tmpa_int=\count368
+\l__chemformula_tmpb_int=\count369
+\l__chemformula_tmpc_int=\count370
+\l__chemformula_tmpa_box=\box83
+\l__chemformula_tmpb_box=\box84
+\l__chemformula_arrow_length_dim=\dimen333
+\l__chemformula_arrow_label_height_dim=\dimen334
+\l__chemformula_arrow_label_offset_dim=\dimen335
+\l__chemformula_arrow_minimum_length_dim=\dimen336
+\l__chemformula_arrow_shortage_dim=\dimen337
+\l__chemformula_arrow_offset_dim=\dimen338
+\l__chemformula_arrow_yshift_dim=\dimen339
+\l__chemformula_radical_radius_dim=\dimen340
+\l__chemformula_radical_hshift_dim=\dimen341
+\l__chemformula_radical_vshift_dim=\dimen342
+\l__chemformula_radical_space_dim=\dimen343
+\l__chemformula_arrow_head_dim=\dimen344
+\l__chemformula_name_dim=\dimen345
+\l__chemformula_adduct_space_dim=\dimen346
+\l__chemformula_charge_shift_dim=\dimen347
+\l__chemformula_subscript_shift_dim=\dimen348
+\l__chemformula_superscript_shift_dim=\dimen349
+\l__chemformula_subscript_dim=\dimen350
+\l__chemformula_superscript_dim=\dimen351
+\l__chemformula_bond_dim=\dimen352
+\l__chemformula_bond_space_dim=\dimen353
+\l__chemformula_elspec_pair_distance_dim=\dimen354
+\l__chemformula_elspec_pair_line_length_dim=\dimen355
+\l__chemformula_elspec_pair_width_dim=\dimen356
+\l__chemformula_kroegervink_positive_radius_dim=\dimen357
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen358
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen359
+\l__chemformula_kroegervink_positive_space_dim=\dimen360
 \l__chemformula_stoich_space_skip=\skip74
 \l__chemformula_math_space_skip=\skip75
 \l__chemformula_additions_symbol_space_skip=\skip76
-\l__chemformula_count_tokens_int=\count364
-\g__chemformula_lewis_int=\count365
-\l__chemformula_arrow_arg_i_box=\box84
-\l__chemformula_arrow_arg_ii_box=\box85
-\l__chemformula_superscript_box=\box86
-\l__chemformula_subscript_box=\box87
+\l__chemformula_count_tokens_int=\count371
+\g__chemformula_lewis_int=\count372
+\l__chemformula_arrow_arg_i_box=\box85
+\l__chemformula_arrow_arg_ii_box=\box86
+\l__chemformula_superscript_box=\box87
+\l__chemformula_subscript_box=\box88
 \l__chemformula_plus_space_skip=\skip77
 \l__chemformula_minus_space_skip=\skip78
 ) (./PEAG-Manuscript_v2.aux
@@ -1092,26 +1111,26 @@ LaTeX Info: Redefining \ttfamily on input line 39.
 LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <20.74> not available
 (Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 39.
 
-Overfull \hbox (1.81967pt too wide) in paragraph at lines 42--43
+Overfull \hbox (1.81967pt too wide) in paragraph at lines 43--44
 []\TU/lmr/m/n/10.95 A possible reaction mechanism of the glycolytic degradation
  of poly--(ethylene tereph-
  []
 
 [1
 
-] [2] (./introduction.tex)
-Overfull \hbox (12.33644pt too wide) in paragraph at lines 6--46
+] (./introduction.tex)
+Overfull \hbox (12.33644pt too wide) in paragraph at lines 6--47
 []\TU/lmr/m/n/10.95 For the chemical recycling of PET, numerous protocols invol
 ving hydrolysis, methanol-
  []
 
-(./methodology.tex [3]) (./PEAG-Manuscript_v2.bbl
+(./methodology.tex [2]) (./PEAG-Manuscript_v2.bbl
 Underfull \hbox (badness 1259) in paragraph at lines 41--50
 []\TU/lmr/m/n/10.95 Ásgeirsson, V.; Birgisson, B. O.; Bjornsson, R.; Becker, U.
 ; Neese, F.;
  []
 
-[4]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 135--145
 []\TU/lmr/m/n/10.95 Ovalle-Sánchez, A.; Elizondo-Martínez, P.; Pérez-Rodríguez,
  N.;
@@ -1123,7 +1142,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--145
 of
  []
 
-[5])
+[4])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1142,7 +1161,7 @@ braces):
 >  {latex/babelname}  =>  {latex}
 >  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [6] (./PEAG-Manuscript_v2.aux
+ [5] (./PEAG-Manuscript_v2.aux
 LaTeX Info: Redefining \rmfamily on input line 15.
 LaTeX Info: Redefining \sffamily on input line 15.
 LaTeX Info: Redefining \ttfamily on input line 15.
@@ -1152,12 +1171,12 @@ LaTeX Info: Redefining \ttfamily on input line 15.
 ### simple group (level 1) entered at line 41 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 29041 strings out of 476182
- 700244 string characters out of 5809611
- 1001004 words of memory out of 5000000
- 49333 multiletter control sequences out of 15000+600000
- 485009 words of font info for 104 fonts, out of 8000000 for 9000
+ 29263 strings out of 476182
+ 703869 string characters out of 5809611
+ 1005713 words of memory out of 5000000
+ 49549 multiletter control sequences out of 15000+600000
+ 485017 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,8n,131p,1404b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,8n,131p,1404b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on PEAG-Manuscript_v2.pdf (6 pages).
+Output written on PEAG-Manuscript_v2.pdf (5 pages).
