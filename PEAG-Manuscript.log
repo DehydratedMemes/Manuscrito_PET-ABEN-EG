@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  14 MAR 2022 10:52
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  14 MAR 2022 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**PEAG-Manuscript_v2.tex
-(./PEAG-Manuscript_v2.tex
+**PEAG-Manuscript.tex
+(./PEAG-Manuscript.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-05>
 (/usr/local/texlive/2021/texmf-dist/tex/latex/achemso/achemso.cls
@@ -972,12 +972,12 @@ Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions
 \l__chemformula_subscript_box=\box88
 \l__chemformula_plus_space_skip=\skip77
 \l__chemformula_minus_space_skip=\skip78
-) (./PEAG-Manuscript_v2.aux
+) (./PEAG-Manuscript.aux
 LaTeX Info: Redefining \rmfamily on input line 15.
 LaTeX Info: Redefining \sffamily on input line 15.
 LaTeX Info: Redefining \ttfamily on input line 15.
 )
-\openout1 = `PEAG-Manuscript_v2.aux'.
+\openout1 = `PEAG-Manuscript.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -1001,7 +1001,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
-\openout3 = `acs-PEAG-Manuscript_v2.bib'.
+\openout3 = `acs-PEAG-Manuscript.bib'.
 
 
 *geometry* driver: auto-detecting
@@ -1124,7 +1124,7 @@ Overfull \hbox (12.33644pt too wide) in paragraph at lines 7--47
 ving hydrolysis, methanol-
  []
 
-[2] (./methodology.tex [3]) (./PEAG-Manuscript_v2.bbl
+[2] (./methodology.tex [3]) (./PEAG-Manuscript.bbl
 Underfull \hbox (badness 1259) in paragraph at lines 41--50
 []\TU/lmr/m/n/10.95 Ásgeirsson, V.; Birgisson, B. O.; Bjornsson, R.; Becker, U.
 ; Neese, F.;
@@ -1161,7 +1161,7 @@ braces):
 >  {latex/babelname}  =>  {latex}
 >  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [6] (./PEAG-Manuscript_v2.aux
+ [6] (./PEAG-Manuscript.aux
 LaTeX Info: Redefining \rmfamily on input line 15.
 LaTeX Info: Redefining \sffamily on input line 15.
 LaTeX Info: Redefining \ttfamily on input line 15.
@@ -1172,11 +1172,11 @@ LaTeX Info: Redefining \ttfamily on input line 15.
 ### bottom level 
 Here is how much of TeX's memory you used:
  29271 strings out of 476182
- 704051 string characters out of 5809611
- 1006713 words of memory out of 5000000
+ 704003 string characters out of 5809611
+ 1006710 words of memory out of 5000000
  49557 multiletter control sequences out of 15000+600000
  485017 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,8n,131p,1445b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,8n,131p,1442b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on PEAG-Manuscript_v2.pdf (6 pages).
+Output written on PEAG-Manuscript.pdf (6 pages).

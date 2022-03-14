@@ -1,14 +1,14 @@
 This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: PEAG-Manuscript_v2.aux
+The top-level auxiliary file: PEAG-Manuscript.aux
 The style file: achemso.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: acs-PEAG-Manuscript_v2.bib
+Database file #1: acs-PEAG-Manuscript.bib
 Database file #2: PEAG-ref.bib
 achemso 2021-01-20 v3.13c
 You've used 21 entries,
             2538 wiz_defined-function locations,
-            934 strings with 11721 characters,
+            934 strings with 11712 characters,
 and the built_in function-call counts, 7670 in all, are:
 = -- 637
 > -- 430
