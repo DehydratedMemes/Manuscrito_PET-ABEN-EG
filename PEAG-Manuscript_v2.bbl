@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{15}
+\begin{mcitethebibliography}{19}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -26,12 +26,12 @@
   {\relax}
   {\relax}
 
-\bibitem[Yu \latin{et~al.}(2016)Yu, He, and Truhlar]{Yu2016}
-Yu,~H.~S.; He,~X.; Truhlar,~D.~G. {{MN15-L}}: {{A New Local
-  Exchange-Correlation Functional}} for {{Kohn}}\textendash{{Sham Density
-  Functional Theory}} with {{Broad Accuracy}} for {{Atoms}}, {{Molecules}}, and
-  {{Solids}}. \emph{J. Chem. Theory Comput.} \textbf{2016}, \emph{12},
-  1280--1293\relax
+\bibitem[Yu \latin{et~al.}(2016)Yu, He, Li, and Truhlar]{Yu2016a}
+Yu,~H.~S.; He,~X.; Li,~S.~L.; Truhlar,~D.~G. {{MN15}}: {{A
+  Kohn}}\textendash{{Sham}} Global-Hybrid Exchange\textendash Correlation
+  Density Functional with Broad Accuracy for Multi-Reference and
+  Single-Reference Systems and Noncovalent Interactions. \emph{Chem. Sci.}
+  \textbf{2016}, \emph{7}, 5032--5051\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -42,6 +42,17 @@ Yu,~H.~S.; He,~X.; Truhlar,~D.~G. {{MN15-L}}: {{A New Local
   Riplinger,~C.; J{\'o}nsson,~H. Nudged Elastic Band Method for Molecular
   Reactions Using Energy-Weighted Springs Combined with Eigenvector Following.
   \emph{J. Chem. Theory Comput.} \textbf{2021}, \emph{17}, 4929--4945\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lefebvre \latin{et~al.}(2018)Lefebvre, Khartabil, Boisson,
+  {Contreras-Garc{\'i}a}, Piquemal, and H{\'e}non]{Lefebvre2018}
+Lefebvre,~C.; Khartabil,~H.; Boisson,~J.-C.; {Contreras-Garc{\'i}a},~J.;
+  Piquemal,~J.-P.; H{\'e}non,~E. The {{Independent Gradient Model}}: {{A New
+  Approach}} for {{Probing Strong}} and {{Weak Interactions}} in {{Molecules}}
+  from {{Wave Function Calculations}}. \emph{ChemPhysChem} \textbf{2018},
+  \emph{19}, 724--735\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -89,6 +100,47 @@ Campanelli,~J.~R.; Cooper,~D.~G.; Kamal,~M.~R. Catalyzed Hydrolysis of
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Vaidya and Nadkarni(1988)Vaidya, and Nadkarni]{Vaidya1988}
+Vaidya,~U.~R.; Nadkarni,~V.~M. Polyester Polyols for Polyurethanes from Pet
+  Waste: Kinetics of Polycondensation. \emph{J. Appl. Polym. Sci.}
+  \textbf{1988}, \emph{35}, 775--785\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ghaemy and Mossaddegh(2005)Ghaemy, and Mossaddegh]{Ghaemy2005}
+Ghaemy,~M.; Mossaddegh,~K. Depolymerisation of Poly(Ethylene Terephthalate)
+  Fibre Wastes Using Ethylene Glycol. \emph{Polym. Degrad. Stab.}
+  \textbf{2005}, \emph{90}, 570--576\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Elizondo-Mart{\'i}nez} \latin{et~al.}(2013){Elizondo-Mart{\'i}nez},
+  {N{\'a}jera-Mart{\'i}nez}, {P{\'e}rez-Rodr{\'i}guez}, {Hinojosa-Reyes}, and
+  G{\'o}mez Del~R{\'i}o]{Elizondo-Martinez2013}
+{Elizondo-Mart{\'i}nez},~P.; {N{\'a}jera-Mart{\'i}nez},~B.;
+  {P{\'e}rez-Rodr{\'i}guez},~N.; {Hinojosa-Reyes},~L.; G{\'o}mez
+  Del~R{\'i}o,~I. Polyaza Macroligands as Potential Agents for Heavy Metal
+  Removal from Wastewater. \emph{J. Serb. Chem. Soc.} \textbf{2013}, \emph{78},
+  591--602\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Ovalle-S{\'a}nchez} \latin{et~al.}(2017){Ovalle-S{\'a}nchez},
+  {Elizondo-Mart{\'i}nez}, {P{\'e}rez-Rodr{\'i}guez},
+  {Hern{\'a}ndez-Fern{\'a}ndez}, and
+  {S{\'a}nchez-Anguiano}]{Ovalle-Sanchez2017}
+{Ovalle-S{\'a}nchez},~A.; {Elizondo-Mart{\'i}nez},~P.;
+  {P{\'e}rez-Rodr{\'i}guez},~N.; {Hern{\'a}ndez-Fern{\'a}ndez},~E.;
+  {S{\'a}nchez-Anguiano},~M.~G. Degradation of Poly(Ethyleneterephtalate) Waste
+  to Obtain Oligomers Using a Zinc Complex as Catalyst. \emph{J. Chil. Chem.
+  Soc.} \textbf{2017}, \emph{62}, 3741--3745\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Bannwarth \latin{et~al.}(2021)Bannwarth, Caldeweyher, Ehlert, Hansen,
   Pracht, Seibert, Spicher, and Grimme]{Bannwarth2021}
 Bannwarth,~C.; Caldeweyher,~E.; Ehlert,~S.; Hansen,~A.; Pracht,~P.;
@@ -124,14 +176,6 @@ Daubeny,~R. D.~P.; {Bunn Charles William},; Brown,~C.~J. The Crystal Structure
 Neese,~F.; Wennmohs,~F.; Becker,~U.; Riplinger,~C. The {{ORCA}} Quantum
   Chemistry Program Package. \emph{J. Chem. Phys.} \textbf{2020}, \emph{152},
   224108\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Stoychev \latin{et~al.}(2017)Stoychev, Auer, and Neese]{Stoychev2017}
-Stoychev,~G.~L.; Auer,~A.~A.; Neese,~F. Automatic {{Generation}} of {{Auxiliary
-  Basis Sets}}. \emph{J. Chem. Theory Comput.} \textbf{2017}, \emph{13},
-  554--562\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

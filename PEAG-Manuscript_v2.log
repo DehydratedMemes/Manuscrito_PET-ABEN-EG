@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  14 MAR 2022 05:45
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  14 MAR 2022 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -954,9 +954,9 @@ Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions
 \l__chemformula_plus_space_skip=\skip77
 \l__chemformula_minus_space_skip=\skip78
 ) (./PEAG-Manuscript_v2.aux
-LaTeX Info: Redefining \rmfamily on input line 13.
-LaTeX Info: Redefining \sffamily on input line 13.
-LaTeX Info: Redefining \ttfamily on input line 13.
+LaTeX Info: Redefining \rmfamily on input line 15.
+LaTeX Info: Redefining \sffamily on input line 15.
+LaTeX Info: Redefining \ttfamily on input line 15.
 )
 \openout1 = `PEAG-Manuscript_v2.aux'.
 
@@ -1099,13 +1099,31 @@ Overfull \hbox (1.81967pt too wide) in paragraph at lines 42--43
 
 [1
 
-] (./introduction.tex) (./methodology.tex [2]) (./PEAG-Manuscript_v2.bbl
-Underfull \hbox (badness 1259) in paragraph at lines 41--49
+] [2] (./introduction.tex)
+Overfull \hbox (12.33644pt too wide) in paragraph at lines 6--46
+[]\TU/lmr/m/n/10.95 For the chemical recycling of PET, numerous protocols invol
+ving hydrolysis, methanol-
+ []
+
+(./methodology.tex [3]) (./PEAG-Manuscript_v2.bbl
+Underfull \hbox (badness 1259) in paragraph at lines 41--50
 []\TU/lmr/m/n/10.95 Ásgeirsson, V.; Birgisson, B. O.; Bjornsson, R.; Becker, U.
 ; Neese, F.;
  []
 
-[3])
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+[]\TU/lmr/m/n/10.95 Ovalle-Sánchez, A.; Elizondo-Martínez, P.; Pérez-Rodríguez,
+ N.;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--145
+\TU/lmr/m/n/10.95 Hernández-Fernández, E.; Sánchez-Anguiano, M. G. Degradation 
+of
+ []
+
+[5])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1124,22 +1142,22 @@ braces):
 >  {latex/babelname}  =>  {latex}
 >  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [4] (./PEAG-Manuscript_v2.aux
-LaTeX Info: Redefining \rmfamily on input line 13.
-LaTeX Info: Redefining \sffamily on input line 13.
-LaTeX Info: Redefining \ttfamily on input line 13.
+ [6] (./PEAG-Manuscript_v2.aux
+LaTeX Info: Redefining \rmfamily on input line 15.
+LaTeX Info: Redefining \sffamily on input line 15.
+LaTeX Info: Redefining \ttfamily on input line 15.
 ) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 41 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 29025 strings out of 476182
- 699816 string characters out of 5809611
- 1001003 words of memory out of 5000000
- 49317 multiletter control sequences out of 15000+600000
+ 29041 strings out of 476182
+ 700244 string characters out of 5809611
+ 1001004 words of memory out of 5000000
+ 49333 multiletter control sequences out of 15000+600000
  485009 words of font info for 104 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,8n,131p,1400b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,8n,131p,1404b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on PEAG-Manuscript_v2.pdf (4 pages).
+Output written on PEAG-Manuscript_v2.pdf (6 pages).

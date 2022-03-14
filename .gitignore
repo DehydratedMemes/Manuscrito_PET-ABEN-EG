@@ -1,5 +1,10 @@
 
+<<<<<<< Updated upstream
+*.synctex.gz
+*.log
+*.aux
+*.blg
+=======
 PEAG-Manuscript_v2.synctex.gz
 PEAG-Manuscript_v2.log
-PEAG-Manuscript_v2.log
-PEAG-Manuscript_v2.log
+>>>>>>> Stashed changes
