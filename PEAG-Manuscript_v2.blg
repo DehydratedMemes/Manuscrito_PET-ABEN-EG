@@ -6,44 +6,44 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: acs-PEAG-Manuscript_v2.bib
 Database file #2: PEAG-ref.bib
 achemso 2021-01-20 v3.13c
-You've used 19 entries,
+You've used 21 entries,
             2538 wiz_defined-function locations,
-            915 strings with 11431 characters,
-and the built_in function-call counts, 7060 in all, are:
-= -- 570
-> -- 419
-< -- 7
-+ -- 165
-- -- 146
-* -- 776
-:= -- 957
-add.period$ -- 35
-call.type$ -- 19
+            934 strings with 11721 characters,
+and the built_in function-call counts, 7670 in all, are:
+= -- 637
+> -- 430
+< -- 9
++ -- 170
+- -- 149
+* -- 840
+:= -- 1030
+add.period$ -- 40
+call.type$ -- 21
 change.case$ -- 4
 chr.to.int$ -- 2
-cite$ -- 19
-duplicate$ -- 390
-empty$ -- 466
-format.name$ -- 167
-if$ -- 1347
+cite$ -- 21
+duplicate$ -- 419
+empty$ -- 514
+format.name$ -- 174
+if$ -- 1466
 int.to.chr$ -- 0
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 136
-num.names$ -- 56
-pop$ -- 34
+newline$ -- 148
+num.names$ -- 60
+pop$ -- 37
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 20
+skip$ -- 21
 stack$ -- 0
-substring$ -- 408
-swap$ -- 417
-text.length$ -- 36
+substring$ -- 486
+swap$ -- 439
+text.length$ -- 40
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 130
+type$ -- 144
 warning$ -- 0
-while$ -- 70
+while$ -- 79
 width$ -- 0
-write$ -- 261
+write$ -- 287

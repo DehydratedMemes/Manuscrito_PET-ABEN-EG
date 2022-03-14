@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{19}
+\begin{mcitethebibliography}{21}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -64,11 +64,25 @@ Geyer,~R.; Jambeck,~J.~R.; Law,~K.~L. Production, Use, and Fate of All Plastics
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Bartolome \latin{et~al.}(2012)Bartolome, Imran, Gyoo, A., and
-  Hyun]{Bartolome2012}
-Bartolome,~L.; Imran,~M.; Gyoo,~B.; A.,~W.; Hyun,~D. In \emph{Material
-  Recycling - Trends and Perspectives}; Achilias,~D.~S., Ed.; {InTech}:
-  {Rijeka}, 2012; Chapter 2\relax
+\bibitem[Caldicott(1999)]{Caldicott1999}
+Caldicott,~R.~J. The Basics of Stretch Blow Molding {{PET}} Containers.
+  \emph{Plast. Eng.} \textbf{1999}, \emph{55}, 35--39\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Thompson \latin{et~al.}(2009)Thompson, Swan, Moore, and vom
+  Saal]{Thompson2009}
+Thompson,~R.~C.; Swan,~S.~H.; Moore,~C.~J.; vom Saal,~F.~S. Our Plastic Age.
+  \emph{Philosophical Transactions of the Royal Society B: Biological Sciences}
+  \textbf{2009}, \emph{364}, 1973--1976\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Paszun and Spychaj(1997)Paszun, and Spychaj]{Paszun1997}
+Paszun,~D.; Spychaj,~T. Chemical Recycling of Poly(Ethylene Terephthalate).
+  \emph{Ind. Eng. Chem. Res.} \textbf{1997}, \emph{36}, 1373--1383\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
