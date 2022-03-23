@@ -1,11 +1,11 @@
 \section{Methods}
 
-The starting configurations for EG and ABEN where proposed and optimized using XTB \cite{Bannwarth2021} with the force field GFN2-xTB \cite{Bannwarth2019}. The staring configuration for DBHET was proposed using crystallographic data \cite{Daubeny1954}. 
+The starting configurations for EG and ABEN where proposed and optimized using XTB \cite{Bannwarth2021} with the force field GFN2-xTB \cite{Bannwarth2019}. The staring configuration for DBHET was proposed using crystallographic data \cite{Daubeny1954}.
 
 The software ORCA (5.0.1) \cite{Neese2020} was used to perform the geometrical optimization of the species involved in the depolymerization; DBHET, ABEN and EG in KS-DFT using a meta-NGA functional, MN15 \cite{Yu2016a} using the def2-TZVP basis set (BS)
 
-The optimized structures where then merged onto the same Cartesian coordinates and then re-optimized in MN15/def2-TZVP. Then, a multidimensional relaxed surface scan was performed keeping constrained, and varying the bond distances in 5 steps to obtain the products of this reaction. The optimized product and the starting geometry of the relaxed surface scan where the input for an Energy-Weighted Climbing image Nudged Elastic Band (EW-CI-NEB) \cite{Asgeirsson2021} algorithm to find the path of minimum energy connecting both ends, followed by a P-RFO optimization to find a TS performed onto the climing image (CI).
+The optimized structures where then merged onto the same Cartesian coordinates and then re-optimized in MN15/def2-TZVP. Then, a multidimensional relaxed surface scan was performed keeping constrained, and varying the bond distances in 5 steps to obtain the products of this reaction. The optimized product and the starting geometry of the relaxed surface scan where the input for an Energy-Weighted Climbing image Nudged Elastic Band (EW-CI-NEB) \cite{Asgeirsson2021} algorithm to find the path of minimum energy connecting both ends, followed by a P-RFO optimization to find a TS performed onto the climbing image (CI).
 
 In order to determine covalent and non-covalent interactions regions between the molecules, an analysis based on Hirshfeld partition of molecular density (IGMH) algorithm within multiwfn was performed \cite{Lu2021} onto the optimized reactant. To minimize computation time, aIGM was performed with the MEP obtained by NEB-TS.
- 
+
 With JANPA \cite{Nikolaienko2014}, CLPOs and bond orders for the reactants, products and transition states where obtained.

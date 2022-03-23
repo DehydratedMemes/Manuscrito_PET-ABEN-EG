@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  23 MAR 2022 10:52
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  23 MAR 2022 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1014,28 +1014,102 @@ LaTeX Info: Redefining \ttfamily on input line 39.
 LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <20.74> not available
 (Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 39.
 
+
+Package natbib Warning: Citation `Yu2016a' on page 1 undefined on input line 43.
+
+
+Package natbib Warning: Citation `Asgeirsson2021' on page 1 undefined on input line 43.
+
+
+Package natbib Warning: Citation `Lefebvre2018' on page 1 undefined on input line 43.
+
+
 Overfull \hbox (1.81967pt too wide) in paragraph at lines 43--44
 []\TU/lmr/m/n/10.95 A possible reaction mechanism of the glycolytic degradation of poly--(ethylene tereph-
  []
 
 [1
 
-] (./introduction.tex [2]) (./methodology.tex [3]) (./PEAG-Manuscript.bbl
-Underfull \hbox (badness 1259) in paragraph at lines 41--50
-[]\TU/lmr/m/n/10.95 Ásgeirsson, V.; Birgisson, B. O.; Bjornsson, R.; Becker, U.; Neese, F.;
- []
+] (./introduction.tex
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 149--159
-[]\TU/lmr/m/n/10.95 Ovalle-Sánchez, A.; Elizondo-Martínez, P.; Pérez-Rodríguez, N.;
- []
+Package natbib Warning: Citation `Geyer2017' on page 2 undefined on input line 3.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--159
-\TU/lmr/m/n/10.95 Hernández-Fernández, E.; Sánchez-Anguiano, M. G. Degradation of
- []
+Package natbib Warning: Citation `Caldicott1999' on page 2 undefined on input line 3.
 
-[5])
+
+Package natbib Warning: Citation `Thompson2009' on page 2 undefined on input line 3.
+
+
+Package natbib Warning: Citation `Paszun1997' on page 2 undefined on input line 3.
+
+
+Package natbib Warning: Citation `Campanelli1993' on page 2 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Campanelli1994' on page 2 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Campanelli1994a' on page 2 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Campanelli1993' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Campanelli1994' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Campanelli1994a' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Vaidya1988' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Vaidya1988' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Vaidya1988' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Ghaemy2005' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Elizondo-Martinez2013' on page 2 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Ovalle-Sanchez2017' on page 2 undefined on input line 5.
+
+[2]) (./methodology.tex
+
+Package natbib Warning: Citation `Bannwarth2021' on page 3 undefined on input line 3.
+
+
+Package natbib Warning: Citation `Bannwarth2019' on page 3 undefined on input line 3.
+
+
+Package natbib Warning: Citation `Daubeny1954' on page 3 undefined on input line 3.
+
+
+Package natbib Warning: Citation `Neese2020' on page 3 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Yu2016a' on page 3 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Asgeirsson2021' on page 3 undefined on input line 7.
+
+
+Package natbib Warning: Citation `Lu2021' on page 3 undefined on input line 9.
+
+[3]
+
+Package natbib Warning: Citation `Nikolaienko2014' on page 4 undefined on input line 11.
+
+)
+No file PEAG-Manuscript.bbl.
+
+Package natbib Warning: There were undefined citations.
+
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1054,7 +1128,7 @@ braces):
 >  {latex/babelname}  =>  {latex}
 >  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [6] (./PEAG-Manuscript.aux
+[4] (./PEAG-Manuscript.aux
 LaTeX Info: Redefining \rmfamily on input line 15.
 LaTeX Info: Redefining \sffamily on input line 15.
 LaTeX Info: Redefining \ttfamily on input line 15.
@@ -1064,12 +1138,12 @@ LaTeX Info: Redefining \ttfamily on input line 15.
 ### simple group (level 1) entered at line 41 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31743 strings out of 476182
- 762260 string characters out of 5809611
- 1106420 words of memory out of 5000000
- 51978 multiletter control sequences out of 15000+600000
+ 31674 strings out of 476182
+ 760834 string characters out of 5809611
+ 1105420 words of memory out of 5000000
+ 51911 multiletter control sequences out of 15000+600000
  485017 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,8n,131p,1478b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on PEAG-Manuscript.pdf (6 pages).
+Output written on PEAG-Manuscript.pdf (4 pages).
