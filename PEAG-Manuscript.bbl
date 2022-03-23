@@ -1,0 +1,214 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{21}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Yu \latin{et~al.}(2016)Yu, He, Li, and Truhlar]{Yu2016a}
+Yu,~H.~S.; He,~X.; Li,~S.~L.; Truhlar,~D.~G. {{MN15}}: {{A
+  Kohn}}\textendash{{Sham}} Global-Hybrid Exchange\textendash Correlation
+  Density Functional with Broad Accuracy for Multi-Reference and
+  Single-Reference Systems and Noncovalent Interactions. \emph{Chem. Sci.}
+  \textbf{2016}, \emph{7}, 5032--5051\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{\'A}sgeirsson \latin{et~al.}(2021){\'A}sgeirsson, Birgisson,
+  Bjornsson, Becker, Neese, Riplinger, and J{\'o}nsson]{Asgeirsson2021}
+{\'A}sgeirsson,~V.; Birgisson,~B.~O.; Bjornsson,~R.; Becker,~U.; Neese,~F.;
+  Riplinger,~C.; J{\'o}nsson,~H. Nudged Elastic Band Method for Molecular
+  Reactions Using Energy-Weighted Springs Combined with Eigenvector Following.
+  \emph{J. Chem. Theory Comput.} \textbf{2021}, \emph{17}, 4929--4945\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lefebvre \latin{et~al.}(2018)Lefebvre, Khartabil, Boisson,
+  {Contreras-Garc{\'i}a}, Piquemal, and H{\'e}non]{Lefebvre2018}
+Lefebvre,~C.; Khartabil,~H.; Boisson,~J.-C.; {Contreras-Garc{\'i}a},~J.;
+  Piquemal,~J.-P.; H{\'e}non,~E. The {{Independent Gradient Model}}: {{A New
+  Approach}} for {{Probing Strong}} and {{Weak Interactions}} in {{Molecules}}
+  from {{Wave Function Calculations}}. \emph{ChemPhysChem} \textbf{2018},
+  \emph{19}, 724--735\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Geyer \latin{et~al.}(2017)Geyer, Jambeck, and Law]{Geyer2017}
+Geyer,~R.; Jambeck,~J.~R.; Law,~K.~L. Production, Use, and Fate of All Plastics
+  Ever Made. \emph{Sci. Adv.} \textbf{2017}, \emph{3}, e1700782\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Caldicott(1999)]{Caldicott1999}
+Caldicott,~R.~J. The Basics of Stretch Blow Molding {{PET}} Containers.
+  \emph{Plast. Eng.} \textbf{1999}, \emph{55}, 35--39\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Thompson \latin{et~al.}(2009)Thompson, Swan, Moore, and vom
+  Saal]{Thompson2009}
+Thompson,~R.~C.; Swan,~S.~H.; Moore,~C.~J.; vom Saal,~F.~S. Our Plastic Age.
+  \emph{Philosophical Transactions of the Royal Society B: Biological Sciences}
+  \textbf{2009}, \emph{364}, 1973--1976\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Paszun and Spychaj(1997)Paszun, and Spychaj]{Paszun1997}
+Paszun,~D.; Spychaj,~T. Chemical Recycling of Poly(Ethylene Terephthalate).
+  \emph{Ind. Eng. Chem. Res.} \textbf{1997}, \emph{36}, 1373--1383\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Campanelli \latin{et~al.}(1993)Campanelli, Kamal, and
+  Cooper]{Campanelli1993}
+Campanelli,~J.~R.; Kamal,~M.~R.; Cooper,~D.~G. A Kinetic Study of the
+  Hydrolytic Degradation of Polyethylene Terephthalate at High Temperatures.
+  \emph{J. Appl. Polym. Sci.} \textbf{1993}, \emph{48}, 443--451\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Campanelli \latin{et~al.}(1994)Campanelli, Kamal, and
+  Cooper]{Campanelli1994}
+Campanelli,~J.~R.; Kamal,~M.~R.; Cooper,~D.~G. Kinetics of Glycolysis of
+  Poly(Ethylene Terephthalate) Melts. \emph{J. Appl. Polym. Sci.}
+  \textbf{1994}, \emph{54}, 1731--1740\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Campanelli \latin{et~al.}(1994)Campanelli, Cooper, and
+  Kamal]{Campanelli1994a}
+Campanelli,~J.~R.; Cooper,~D.~G.; Kamal,~M.~R. Catalyzed Hydrolysis of
+  Polyethylene Terephthalate Melts. \emph{J. Appl. Polym. Sci.} \textbf{1994},
+  \emph{53}, 985--991\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Vaidya and Nadkarni(1988)Vaidya, and Nadkarni]{Vaidya1988}
+Vaidya,~U.~R.; Nadkarni,~V.~M. Polyester Polyols for Polyurethanes from Pet
+  Waste: Kinetics of Polycondensation. \emph{J. Appl. Polym. Sci.}
+  \textbf{1988}, \emph{35}, 775--785\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ghaemy and Mossaddegh(2005)Ghaemy, and Mossaddegh]{Ghaemy2005}
+Ghaemy,~M.; Mossaddegh,~K. Depolymerisation of Poly(Ethylene Terephthalate)
+  Fibre Wastes Using Ethylene Glycol. \emph{Polym. Degrad. Stab.}
+  \textbf{2005}, \emph{90}, 570--576\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Elizondo-Mart{\'i}nez} \latin{et~al.}(2013){Elizondo-Mart{\'i}nez},
+  {N{\'a}jera-Mart{\'i}nez}, {P{\'e}rez-Rodr{\'i}guez}, {Hinojosa-Reyes}, and
+  G{\'o}mez Del~R{\'i}o]{Elizondo-Martinez2013}
+{Elizondo-Mart{\'i}nez},~P.; {N{\'a}jera-Mart{\'i}nez},~B.;
+  {P{\'e}rez-Rodr{\'i}guez},~N.; {Hinojosa-Reyes},~L.; G{\'o}mez
+  Del~R{\'i}o,~I. Polyaza Macroligands as Potential Agents for Heavy Metal
+  Removal from Wastewater. \emph{J. Serb. Chem. Soc.} \textbf{2013}, \emph{78},
+  591--602\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Ovalle-S{\'a}nchez} \latin{et~al.}(2017){Ovalle-S{\'a}nchez},
+  {Elizondo-Mart{\'i}nez}, {P{\'e}rez-Rodr{\'i}guez},
+  {Hern{\'a}ndez-Fern{\'a}ndez}, and
+  {S{\'a}nchez-Anguiano}]{Ovalle-Sanchez2017}
+{Ovalle-S{\'a}nchez},~A.; {Elizondo-Mart{\'i}nez},~P.;
+  {P{\'e}rez-Rodr{\'i}guez},~N.; {Hern{\'a}ndez-Fern{\'a}ndez},~E.;
+  {S{\'a}nchez-Anguiano},~M.~G. Degradation of Poly(Ethyleneterephtalate) Waste
+  to Obtain Oligomers Using a Zinc Complex as Catalyst. \emph{J. Chil. Chem.
+  Soc.} \textbf{2017}, \emph{62}, 3741--3745\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bannwarth \latin{et~al.}(2021)Bannwarth, Caldeweyher, Ehlert, Hansen,
+  Pracht, Seibert, Spicher, and Grimme]{Bannwarth2021}
+Bannwarth,~C.; Caldeweyher,~E.; Ehlert,~S.; Hansen,~A.; Pracht,~P.;
+  Seibert,~J.; Spicher,~S.; Grimme,~S. Extended {\textsc{Tight-binding}}
+  Quantum Chemistry Methods. \emph{WIREs Comput Mol Sci} \textbf{2021},
+  \emph{11}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bannwarth \latin{et~al.}(2019)Bannwarth, Ehlert, and
+  Grimme]{Bannwarth2019}
+Bannwarth,~C.; Ehlert,~S.; Grimme,~S. {{GFN2-xTB}}\textemdash{{An Accurate}}
+  and {{Broadly Parametrized Self-Consistent Tight-Binding Quantum Chemical
+  Method}} with {{Multipole Electrostatics}} and {{Density-Dependent Dispersion
+  Contributions}}. \emph{J. Chem. Theory Comput.} \textbf{2019}, \emph{15},
+  1652--1671\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Daubeny \latin{et~al.}(1954)Daubeny, {Bunn Charles William}, and
+  Brown]{Daubeny1954}
+Daubeny,~R. D.~P.; {Bunn Charles William},; Brown,~C.~J. The Crystal Structure
+  of Polyethylene Terephthalate. \emph{Proc. R. Soc. Lond. A} \textbf{1954},
+  \emph{226}, 531--542\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Neese \latin{et~al.}(2020)Neese, Wennmohs, Becker, and
+  Riplinger]{Neese2020}
+Neese,~F.; Wennmohs,~F.; Becker,~U.; Riplinger,~C. The {{ORCA}} Quantum
+  Chemistry Program Package. \emph{J. Chem. Phys.} \textbf{2020}, \emph{152},
+  224108\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lu and Chen(2021)Lu, and Chen]{Lu2021}
+Lu,~T.; Chen,~Q. Interaction {{Region Indicator}}: {{A Simple Real Space
+  Function Clearly Revealing Both Chemical Bonds}} and {{Weak Interactions}}.
+  \emph{Chem. Methods} \textbf{2021}, \emph{1}, 231--239\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Nikolaienko \latin{et~al.}(2014)Nikolaienko, Bulavin, and
+  Hovorun]{Nikolaienko2014}
+Nikolaienko,~T.~Y.; Bulavin,~L.~A.; Hovorun,~D.~M. {{JANPA}}: An Open Source
+  Cross-Platform Implementation of the Natural Population Analysis on the Java
+  Platform. \emph{Comput Theor Chem} \textbf{2014}, \emph{1050}, 15--22\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
