@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QPablo E. Alanis González [Universidad Autónoma de Nuevo Leon] Universidad Autónoma de Nuevo León, San Nicolás de los Garza, N.L. Facultad de Ciencias Químicas, UANL \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q +52 (81) 1177 3600\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIsabel del Carmen Saenz Tavera [Universidad Autónoma de Nuevo León] Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León, San Nicolás de los Garza, N.L. Facultad de Ciencias Químicas, UANL\\E$"}
