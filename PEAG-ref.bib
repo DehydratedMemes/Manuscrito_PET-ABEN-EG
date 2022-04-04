@@ -1061,6 +1061,22 @@
   annotation = {ECC: 0000201}
 }
 
+@article{Helmich-Paris2021,
+  title = {A Trust-Region Augmented {{Hessian}} Implementation for Restricted and Unrestricted {{Hartree}}\textendash{{Fock}} and {{Kohn}}\textendash{{Sham}} Methods},
+  author = {{Helmich-Paris}, Benjamin},
+  year = {2021},
+  month = apr,
+  journal = {J. Chem. Phys.},
+  volume = {154},
+  number = {16},
+  pages = {164104},
+  issn = {0021-9606, 1089-7690},
+  doi = {10/gk6mqq},
+  abstract = {We present a new implementation of a trust-region augmented Hessian approach (TRAH-SCF) for restricted and unrestricted Hartree\textendash Fock and Kohn\textendash Sham methods. With TRAH-SCF, convergence can always be achieved even with tight convergence thresholds, which requires just a modest number of iterations. Our convergence benchmark study and our illustrative applications focus on open-shell molecules, also antiferromagnetically coupled systems, for which it is notoriously complicated to converge the Roothaan\textendash Hall self-consistent field (SCF) equations. We compare the number of TRAH iterations to reach convergence with those of Pulay's original and Kollmar's (K) variants of the direct inversion of the iterative subspace (DIIS) method and also analyze the obtained SCF solutions. Often, TRAH-SCF finds a symmetrybroken solution with a lower energy than DIIS and KDIIS. For unrestricted calculations, this is accompanied by a larger spin contamination, i.e., larger deviation from the desired spin-restricted {$\langle$}S2{$\rangle$} expectation value. However, there are also rare cases in which DIIS finds a solution with a lower energy than KDIIS and TRAH. In rare cases, both TRAH-SCF and KDIIS may also converge to a non-aufbau solution. For those calculations, standard DIIS always diverges. For cases that converge smoothly with either method, TRAH usually needs more iterations to converge than DIIS and KDIIS because for every new set of orbitals, the level-shifted Newton\textendash Raphson equations are solved approximately and iteratively. In such cases, the total runtime of TRAH-SCF is still competitive with the DIIS-based approaches even if extended basis sets are employed, which is illustrated for a large hemocyanin model complex.},
+  langid = {english},
+  file = {/Users/pabloalanis/Zotero/storage/QUFKI2LS/Helmich-Paris - 2021 - A trust-region augmented Hessian implementation fo.pdf}
+}
+
 @incollection{Hirao2014,
   title = {Hydrogen Bonding},
   booktitle = {The {{Chemical Bond}}},
@@ -2116,6 +2132,20 @@
   doi = {10/gg53w7},
   langid = {english},
   file = {/Users/pabloalanis/Zotero/storage/GJ34988U/orca_manual_5_0_3.pdf;/Users/pabloalanis/Zotero/storage/QBDAUXKR/Neese et al. - 2020 - The ORCA quantum chemistry program package.pdf}
+}
+
+@article{Neese2022,
+  title = {Software Update: {{The}} {{{\textsc{ORCA}}}} Program System\textemdash{{Version}} 5.0},
+  shorttitle = {Software Update},
+  author = {Neese, Frank},
+  year = {2022},
+  month = mar,
+  journal = {WIREs Comput Mol Sci},
+  issn = {1759-0876, 1759-0884},
+  doi = {10/gpsrmd},
+  abstract = {Version 5.0 of the ORCA quantum chemistry program suite was released in July 2021. ORCA 5.0 represents a major improvement over all previous versions of ORCA and features (1) highly improved performance, (2) increased numerical robustness, (3) a host of new functionality, and (4) greatly improved user friendliness. The article describes the most salient features of the program.},
+  langid = {english},
+  file = {/Users/pabloalanis/Zotero/storage/NQMZG7UA/Neese - 2022 - Software update The span style=font-variantsma.pdf}
 }
 
 @article{Nevrekar1987,

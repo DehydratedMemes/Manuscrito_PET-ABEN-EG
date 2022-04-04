@@ -6,5 +6,6 @@
         "markdown",
         "plaintext",
         "latex"
-    ]
+    ],
+    "jupyter.jupyterServerType": "local"
 }
